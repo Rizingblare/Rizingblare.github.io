@@ -3,17 +3,17 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
+  name: JeongDo, Kim
   depiction: profile.jpg
   profession: Web Backend Developer
   location: Busan
   citizenship: Korea
   email: jd0419@naver.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  site: http://rizingblare.tistory.com
+  phone: 010.8993.1777
+  github: /Rizingblare
+  #stackoverflow: /streetturtle
+  #linkedin: /streetturtle
 
 career:
  - position: Foot Clan Antagonist
